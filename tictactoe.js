@@ -124,4 +124,4 @@ var READER = readline.createInterface({
 });
 
 game = new this.TicTacToe.Game();
-game.loop("X");
+game.loop("x");
